@@ -4,3 +4,6 @@ Other operating Systems must download the python and pygames packages on their o
 
 The Music played is ema.mp3 and can be changed at will.
 Make sure to execute Setup.exe before running the game.
+
+
+Made By Korlepara Piyush and Surender Harsha.
